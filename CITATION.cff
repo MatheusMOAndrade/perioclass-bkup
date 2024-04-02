@@ -1,0 +1,32 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: PerioClass
+authors:
+  - family-names: Bruno
+    given-names: Gomes Ferreira
+  - family-names: Pedro Mairinque De Azevedo
+    given-names: João 
+  - family-names: Andrade Machado
+    given-names: Matheus
+  - family-names: Vieira Dos Santos
+    given-names: Matheus
+  - family-names: Martins Ferreira
+    given-names: Samara
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Christina de Paiva Carvalho
+    given-names: Joyce
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Lúcia da Silva
+    given-names: Soraia
+keywords:
+  - Aplicação Web
+  - Engenharia de Software
+  - Odontologia
+  - Periodontite
+  - PUC Minas
+repository-code:
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14

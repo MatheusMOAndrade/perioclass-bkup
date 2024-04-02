@@ -1,0 +1,42 @@
+[
+    {
+      "state": "MG",
+      "quantity": 17
+    },
+    {
+      "state": "RJ",
+      "quantity": 35
+    },
+    {
+      "state": "SP",
+      "quantity": 52
+    },
+    {
+      "state": "ES",
+      "quantity": 31
+    },
+    {
+      "state": "BA",
+      "quantity": 23
+    },
+    {
+      "state": "MT",
+      "quantity": 43
+    },
+    {
+      "state": "GO",
+      "quantity": 25
+    },
+    {
+      "state": "SE",
+      "quantity": 25
+    },
+    {
+      "state": "PA",
+      "quantity": 25
+    },
+    {
+      "state": "AM",
+      "quantity": 25
+    }
+  ]

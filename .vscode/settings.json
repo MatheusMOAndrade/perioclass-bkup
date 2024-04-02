@@ -1,0 +1,8 @@
+{
+    "conventionalCommits.scopes": [
+        "Qeury",
+        "ReactQuery",
+        "Auth",
+        "Patient"
+    ]
+}
